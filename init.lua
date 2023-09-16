@@ -1,3 +1,4 @@
 return {
-    require "user.options"
+    require "user.options",
+    colorscheme = "dracula",
 }
